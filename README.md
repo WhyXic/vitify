@@ -1,5 +1,4 @@
-# confession_app
-
+Vitify
 A new Flutter project.
 
 ## Getting Started
